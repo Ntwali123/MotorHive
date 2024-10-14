@@ -1,9 +1,9 @@
-import CarCard from "./CarCard";
-import CustomButton from "./CustomButton";
-import CustomFilter from "./CustomFilter";
+import CarCard from "./Card";
+import CustomButton from "./Button";
+import CustomFilter from "./Filter";
 import Footer from "./Footer";
 import NavBar from "./NavBar";
-import ShowMore from "./ShowMore";
+import ShowMore from "./More";
 import SearchBar from "./SearchBar";
 import Hero from "./Hero";
 
